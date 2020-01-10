@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/herosol/precache-manifest.537e43918759b766ec5c6cfb23ededa7.js"
+  "/herosol/precache-manifest.de2f165a26cb4fb550173a5e644268da.js"
 );
 
 self.addEventListener('message', (event) => {

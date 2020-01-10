@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f47dfcf89d064011a94ad74bde92436",
+    "revision": "8e74be182bb5ae0be6536abaa3ee73d2",
     "url": "/herosol/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/herosol/static/css/2.bc6d22c9.chunk.css"
   },
   {
-    "revision": "61c8cf6d6fc1497a7d99",
+    "revision": "46b852167c1afbeab5df",
     "url": "/herosol/static/css/main.3e44c836.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/herosol/static/js/2.4ede447e.chunk.js.LICENSE"
   },
   {
-    "revision": "61c8cf6d6fc1497a7d99",
-    "url": "/herosol/static/js/main.296a9ff9.chunk.js"
+    "revision": "46b852167c1afbeab5df",
+    "url": "/herosol/static/js/main.eebf8ec1.chunk.js"
   },
   {
     "revision": "181381a48ca55181d999",

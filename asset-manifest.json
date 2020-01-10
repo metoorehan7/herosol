@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/herosol/static/css/main.3e44c836.chunk.css",
-    "main.js": "/herosol/static/js/main.296a9ff9.chunk.js",
-    "main.js.map": "/herosol/static/js/main.296a9ff9.chunk.js.map",
+    "main.js": "/herosol/static/js/main.eebf8ec1.chunk.js",
+    "main.js.map": "/herosol/static/js/main.eebf8ec1.chunk.js.map",
     "runtime-main.js": "/herosol/static/js/runtime-main.c37ec4e1.js",
     "runtime-main.js.map": "/herosol/static/js/runtime-main.c37ec4e1.js.map",
     "static/css/2.bc6d22c9.chunk.css": "/herosol/static/css/2.bc6d22c9.chunk.css",
     "static/js/2.4ede447e.chunk.js": "/herosol/static/js/2.4ede447e.chunk.js",
     "static/js/2.4ede447e.chunk.js.map": "/herosol/static/js/2.4ede447e.chunk.js.map",
     "index.html": "/herosol/index.html",
-    "precache-manifest.537e43918759b766ec5c6cfb23ededa7.js": "/herosol/precache-manifest.537e43918759b766ec5c6cfb23ededa7.js",
+    "precache-manifest.de2f165a26cb4fb550173a5e644268da.js": "/herosol/precache-manifest.de2f165a26cb4fb550173a5e644268da.js",
     "service-worker.js": "/herosol/service-worker.js",
     "static/css/2.bc6d22c9.chunk.css.map": "/herosol/static/css/2.bc6d22c9.chunk.css.map",
     "static/css/main.3e44c836.chunk.css.map": "/herosol/static/css/main.3e44c836.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.bc6d22c9.chunk.css",
     "static/js/2.4ede447e.chunk.js",
     "static/css/main.3e44c836.chunk.css",
-    "static/js/main.296a9ff9.chunk.js"
+    "static/js/main.eebf8ec1.chunk.js"
   ]
 }
