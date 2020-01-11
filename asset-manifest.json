@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f289bba.chunk.css",
-    "main.js": "/static/js/main.9de57e66.chunk.js",
-    "main.js.map": "/static/js/main.9de57e66.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b50bb1e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b50bb1e.js.map",
-    "static/css/2.3cecf958.chunk.css": "/static/css/2.3cecf958.chunk.css",
-    "static/js/2.4ede447e.chunk.js": "/static/js/2.4ede447e.chunk.js",
-    "static/js/2.4ede447e.chunk.js.map": "/static/js/2.4ede447e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ed8e673c1465196ae4f9b834b2d2512a.js": "/precache-manifest.ed8e673c1465196ae4f9b834b2d2512a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3cecf958.chunk.css.map": "/static/css/2.3cecf958.chunk.css.map",
-    "static/css/main.5f289bba.chunk.css.map": "/static/css/main.5f289bba.chunk.css.map",
-    "static/js/2.4ede447e.chunk.js.LICENSE": "/static/js/2.4ede447e.chunk.js.LICENSE",
-    "static/media/main.css": "/static/media/icon-youtube.2f9cf250.svg",
-    "static/media/font-icon.min.css": "/static/media/font-icon.f14b6877.ttf",
-    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/herosol/static/css/main.3e44c836.chunk.css",
+    "main.js": "/herosol/static/js/main.5e286aa1.chunk.js",
+    "main.js.map": "/herosol/static/js/main.5e286aa1.chunk.js.map",
+    "runtime-main.js": "/herosol/static/js/runtime-main.c37ec4e1.js",
+    "runtime-main.js.map": "/herosol/static/js/runtime-main.c37ec4e1.js.map",
+    "static/css/2.bc6d22c9.chunk.css": "/herosol/static/css/2.bc6d22c9.chunk.css",
+    "static/js/2.4ede447e.chunk.js": "/herosol/static/js/2.4ede447e.chunk.js",
+    "static/js/2.4ede447e.chunk.js.map": "/herosol/static/js/2.4ede447e.chunk.js.map",
+    "index.html": "/herosol/index.html",
+    "precache-manifest.536bc91c9c8412ee2e6f3b865129ebac.js": "/herosol/precache-manifest.536bc91c9c8412ee2e6f3b865129ebac.js",
+    "service-worker.js": "/herosol/service-worker.js",
+    "static/css/2.bc6d22c9.chunk.css.map": "/herosol/static/css/2.bc6d22c9.chunk.css.map",
+    "static/css/main.3e44c836.chunk.css.map": "/herosol/static/css/main.3e44c836.chunk.css.map",
+    "static/js/2.4ede447e.chunk.js.LICENSE": "/herosol/static/js/2.4ede447e.chunk.js.LICENSE",
+    "static/media/main.css": "/herosol/static/media/icon-youtube.2f9cf250.svg",
+    "static/media/font-icon.min.css": "/herosol/static/media/font-icon.f14b6877.ttf",
+    "static/media/bootstrap.min.css": "/herosol/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b50bb1e.js",
-    "static/css/2.3cecf958.chunk.css",
+    "static/js/runtime-main.c37ec4e1.js",
+    "static/css/2.bc6d22c9.chunk.css",
     "static/js/2.4ede447e.chunk.js",
-    "static/css/main.5f289bba.chunk.css",
-    "static/js/main.9de57e66.chunk.js"
+    "static/css/main.3e44c836.chunk.css",
+    "static/js/main.5e286aa1.chunk.js"
   ]
 }
